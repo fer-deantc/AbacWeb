@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://abac.mx/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abac.mx/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abac.mx/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://abac.mx/"/>
+  </url>
+  <url>
+    <loc>https://abac.mx/about/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abac.mx/about/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abac.mx/about/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://abac.mx/about/"/>
+  </url>
+  <url>
+    <loc>https://abac.mx/support/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abac.mx/support/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abac.mx/support/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://abac.mx/support/"/>
+  </url>
+  <url>
+    <loc>https://abac.mx/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abac.mx/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abac.mx/privacy/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://abac.mx/privacy/"/>
+  </url>
+  <url>
+    <loc>https://abac.mx/terms/</loc>
+    <xhtml:link rel="alternate" hreflang="es" href="https://abac.mx/terms/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://abac.mx/terms/?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://abac.mx/terms/"/>
+  </url>
+</urlset>
