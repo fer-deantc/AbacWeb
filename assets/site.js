@@ -1,5 +1,5 @@
 /* ===== Configuración: pega aquí el enlace oficial de Abac en el App Store ===== */
-var APP_STORE_URL = "";
+var APP_STORE_URL = "https://apps.apple.com/app/id6809473861";
 document.querySelectorAll("[data-store]").forEach(function(a){if(APP_STORE_URL){a.href=APP_STORE_URL;a.removeAttribute("onclick");a.target="_blank";a.rel="noopener"}});
 /* ===== */
 (function(){
